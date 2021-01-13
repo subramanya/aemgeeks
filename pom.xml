@@ -19,7 +19,7 @@
     <groupId>com.aem.geeks</groupId>
     <artifactId>aemgeeks</artifactId>
     <packaging>pom</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <description>AEM GEEKS</description>
 
     <modules>
@@ -54,7 +54,7 @@
 	<scm>
 	   <connection>scm:git:https://github.com/subramanya/aemgeeks.git</connection>
 	   <developerConnection>scm:git:https://github.com/subramanya/aemgeeks.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>aemgeeks-1.1</tag>
   </scm>
 
     <build>
