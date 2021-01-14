@@ -22,7 +22,7 @@
     <parent>
         <groupId>com.aem.geeks</groupId>
         <artifactId>aemgeeks</artifactId>
-        <version>1.4-SNAPSHOT</version>
+        <version>1.4</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
